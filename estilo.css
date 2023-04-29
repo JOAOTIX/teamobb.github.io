@@ -1,0 +1,159 @@
+.indice li {
+    border: 2px solid black;
+    margin: 20px;
+    font-family:   cursive;
+    font-weight: lighter;
+    font-size: 20px;
+    display:inline-block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 10px;
+   list-style: none;
+}
+.indice {
+    text-align: center;
+}
+.cuerpo{
+   background-image: url(LOGOS.png/hello_kitty_140920568644_4.jpg);
+   background-size: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+}
+.articulo1, .articulo2{
+    width: auto;
+    margin: 20px ;
+    border: 1px solid black;
+}
+.titulo2{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 50px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: center;
+}
+.subtitulo2, .subtitulo3{  
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 40px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: inline-block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: left;
+}
+.fecha1, .fecha2{
+    font-family: cursive;
+    font-weight: lighter;
+    padding: 20px;
+    display: block;
+    background-color: hotpink;
+    text-align: center;
+}
+address{
+    background-color: hotpink;
+    display: inline-block;
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: lighter;
+    margin: 50px;
+    padding: 20px;
+    border-style:dashed;
+    text-align: center;
+    width: 300px;
+}
+.titulo1  {
+    border: 2px solid black;
+    padding: 15px;
+    margin: 20px;
+    font-size: 100px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 10px;
+   text-align: left;
+}
+.titulo3{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 50px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display:block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: center;
+}
+.articulo1,.articulo2{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 25px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: block;
+    background-color: hotpink;
+    margin: 50px;
+   padding: 20px;
+   text-align: center;
+}
+.pie1,  .pie2{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 25px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: left;
+   width: 300px;
+   float: right;
+} 
+.Pie{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+    font-size: 20px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: inline-block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: right;
+
+ }
+ .subtitulo2, .subtitulo3{
+    float: rights;
+ }
+blockquote{
+    border: 2px solid black;
+    padding: 25px;
+    margin: 20px;
+    font-size: 25px;
+    font-family:   cursive;
+    font-weight: lighter;
+    display: block;
+    background-color: hotpink;
+    margin: 50 px;
+   padding: 20px;
+   text-align: left;
+   width: 300px;
+}
+ 
