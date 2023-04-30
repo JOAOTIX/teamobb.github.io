@@ -1,4 +1,4 @@
-dig www.esmi.com +nostats +nocomments +nocmd
+ dig www.esmi.com +nostats +nocomments +nocmd
     > ;www.esmi.com.                    IN      A
     > www.esmi.com.             3592    IN      CNAME   joaotix.github.io.
     > joaotix.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
